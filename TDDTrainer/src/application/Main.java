@@ -20,8 +20,6 @@ public class Main extends Application {
 		}
 	}
 	
-	this.isunfug;
-	
 	public static void main(String[] args) {
 		launch(args);
 	}
